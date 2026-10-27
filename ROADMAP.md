@@ -1,4 +1,4 @@
-**English** · [Español](HOJA_DE_RUTA.md)
+[Español](HOJA_DE_RUTA.md) · **English**
 
 # Roadmap
 
@@ -64,4 +64,4 @@ Every world is a phase of its own: approved mock-up, pieces, a Yacht celebration
 
 ---
 
-[Back to the start](README.md) · [Evolution](EVOLUTION.md)
+[Back to the start](README.en.md) · [Evolution](EVOLUTION.md)

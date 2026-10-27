@@ -1,4 +1,4 @@
-[English](noir.md) · **Español**
+**Español** · [English](noir.md)
 
 # Agencia Medianoche (despacho noir)
 
@@ -43,4 +43,4 @@ El despacho de un detective privado de los años 40, a medianoche. Una lámpara 
 
 ---
 
-[Volver al inicio](../README.es.md) · [Evolución](../EVOLUCION.md)
+[Volver al inicio](../README.md) · [Evolución](../EVOLUCION.md)

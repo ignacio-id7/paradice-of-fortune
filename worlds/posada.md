@@ -1,4 +1,4 @@
-**English** · [Español](posada.es.md)
+[Español](posada.es.md) · **English**
 
 # The Oak Inn
 
@@ -42,4 +42,4 @@ The first world and the one every profile starts with: a fantasy tavern, realist
 
 ---
 
-[Back to the start](../README.md) · [Evolution](../EVOLUTION.md)
+[Back to the start](../README.en.md) · [Evolution](../EVOLUTION.md)

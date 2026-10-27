@@ -1,4 +1,4 @@
-[English](EVOLUTION.md) · **Español**
+**Español** · [English](EVOLUTION.md)
 
 # Evolución
 
@@ -312,4 +312,4 @@ El juego completo en un teléfono Android, en horizontal y con el dedo, como una
 
 ---
 
-[Volver al inicio](README.es.md) · [Hoja de ruta](HOJA_DE_RUTA.md)
+[Volver al inicio](README.md) · [Hoja de ruta](HOJA_DE_RUTA.md)

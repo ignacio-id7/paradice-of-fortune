@@ -1,4 +1,4 @@
-[English](ARCHITECTURE.md) · **Español**
+**Español** · [English](ARCHITECTURE.md)
 
 # Arquitectura
 
@@ -42,4 +42,4 @@ Más de noventa tests automáticos, de unidad y de integración, corren antes de
 
 ---
 
-[Volver al inicio](README.es.md)
+[Volver al inicio](README.md)

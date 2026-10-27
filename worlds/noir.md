@@ -1,4 +1,4 @@
-**English** · [Español](noir.es.md)
+[Español](noir.es.md) · **English**
 
 # Midnight Agency (noir office)
 
@@ -43,4 +43,4 @@ A private detective's office in the 1940s, at midnight. A hanging lamp lights th
 
 ---
 
-[Back to the start](../README.md) · [Evolution](../EVOLUTION.md)
+[Back to the start](../README.en.md) · [Evolution](../EVOLUTION.md)

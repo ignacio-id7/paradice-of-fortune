@@ -1,4 +1,4 @@
-**English** · [Español](aero.es.md)
+[Español](aero.es.md) · **English**
 
 # Frutiger Aero
 
@@ -42,4 +42,4 @@ The look of glossy mid-2000s computers, taken outdoors: a glass table on a meado
 
 ---
 
-[Back to the start](../README.md) · [Evolution](../EVOLUTION.md)
+[Back to the start](../README.en.md) · [Evolution](../EVOLUTION.md)

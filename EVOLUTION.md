@@ -1,4 +1,4 @@
-**English** · [Español](EVOLUCION.md)
+[Español](EVOLUCION.md) · **English**
 
 # Evolution
 
@@ -312,4 +312,4 @@ The full game on an Android phone, in landscape and played with a finger, as a p
 
 ---
 
-[Back to the start](README.md) · [Roadmap](ROADMAP.md)
+[Back to the start](README.en.md) · [Roadmap](ROADMAP.md)

@@ -1,4 +1,4 @@
-[English](fonda.md) · **Español**
+**Español** · [English](fonda.md)
 
 # Fonda El Cacho
 
@@ -43,4 +43,4 @@ Una fonda chilena de Fiestas Patrias, en una tarde de sol, con tono realista. Ba
 
 ---
 
-[Volver al inicio](../README.es.md) · [Evolución](../EVOLUCION.md)
+[Volver al inicio](../README.md) · [Evolución](../EVOLUCION.md)

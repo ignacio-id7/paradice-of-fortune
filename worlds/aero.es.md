@@ -1,4 +1,4 @@
-[English](aero.md) · **Español**
+**Español** · [English](aero.md)
 
 # Frutiger Aero
 
@@ -42,4 +42,4 @@ La estética de los computadores brillantes de mediados de los 2000, llevada al 
 
 ---
 
-[Volver al inicio](../README.es.md) · [Evolución](../EVOLUCION.md)
+[Volver al inicio](../README.md) · [Evolución](../EVOLUCION.md)

@@ -1,4 +1,4 @@
-[English](ROADMAP.md) · **Español**
+**Español** · [English](ROADMAP.md)
 
 # Hoja de ruta
 
@@ -64,4 +64,4 @@ Cada mundo es una fase propia: maqueta aprobada, piezas, celebración del Yacht,
 
 ---
 
-[Volver al inicio](README.es.md) · [Evolución](EVOLUCION.md)
+[Volver al inicio](README.md) · [Evolución](EVOLUCION.md)

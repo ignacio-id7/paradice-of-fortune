@@ -1,4 +1,4 @@
-**English** · [Español](ARQUITECTURA.md)
+[Español](ARQUITECTURA.md) · **English**
 
 # Architecture
 
@@ -42,4 +42,4 @@ More than ninety automated tests, unit and integration, run before every deliver
 
 ---
 
-[Back to the start](README.md)
+[Back to the start](README.en.md)

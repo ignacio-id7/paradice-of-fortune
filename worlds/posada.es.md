@@ -1,4 +1,4 @@
-[English](posada.md) · **Español**
+**Español** · [English](posada.md)
 
 # La Posada del Roble
 
@@ -42,4 +42,4 @@ El primer mundo y el que trae todo perfil nuevo: una taberna fantástica, realis
 
 ---
 
-[Volver al inicio](../README.es.md) · [Evolución](../EVOLUCION.md)
+[Volver al inicio](../README.md) · [Evolución](../EVOLUCION.md)

@@ -1,4 +1,4 @@
-**English** · [Español](fonda.es.md)
+[Español](fonda.es.md) · **English**
 
 # Fonda El Cacho
 
@@ -43,4 +43,4 @@ A Chilean fonda for the Independence Day holidays («Fiestas Patrias»), on a su
 
 ---
 
-[Back to the start](../README.md) · [Evolution](../EVOLUTION.md)
+[Back to the start](../README.en.md) · [Evolution](../EVOLUTION.md)
