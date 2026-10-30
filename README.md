@@ -35,7 +35,7 @@ Cada mesa pertenece a un **mundo** con aspecto, sonido y vida propios: una posad
 | 6B | [Tercer mundo: el despacho noir](EVOLUCION.md#fase-6b-tercer-mundo-el-despacho-noir) | 2026-10-02 / 2026-10-04 | Cerrada |
 | 6C | [Cuarto mundo: la Fonda El Cacho](EVOLUCION.md#fase-6c-cuarto-mundo-la-fonda-el-cacho) | 2026-10-13 / 2026-10-15 | Cerrada |
 | 7A | [Contra la IA y dos jugadores](EVOLUCION.md#fase-7a-contra-la-ia-y-dos-jugadores) | 2026-10-16 / 2026-10-17 | Cerrada |
-| M | [Android](EVOLUCION.md#fase-m-android) | 2026-10-17 / 2026-10-18 | En curso |
+| M | [Android](EVOLUCION.md#fase-m-android) | 2026-10-17 / 2026-10-29 | En curso |
 | 7B | En línea, 1 contra 1 | — | Planificada |
 | 7C | De 3 a 4 jugadores | — | Planificada |
 | 8 | Progresión y final del juego | — | Planificada |
@@ -65,6 +65,6 @@ Cada mesa pertenece a un **mundo** con aspecto, sonido y vida propios: una posad
 - [Hoja de ruta](HOJA_DE_RUTA.md): lo que viene.
 - [Arquitectura](ARQUITECTURA.md): cómo está organizado el juego.
 
-Última actualización: 2026-10-26.
+Última actualización: 2026-10-29.
 
 © 2026 Ignacio Díaz. Todos los derechos reservados: ver [LICENSE](LICENSE).

@@ -35,7 +35,7 @@ Each table belongs to a **world** with its own look, sound and life: a candle-li
 | 6B | [Third world: the noir office](EVOLUTION.md#phase-6b-third-world-the-noir-office) | 2026-10-02 / 2026-10-04 | Closed |
 | 6C | [Fourth world: Fonda El Cacho](EVOLUTION.md#phase-6c-fourth-world-fonda-el-cacho) | 2026-10-13 / 2026-10-15 | Closed |
 | 7A | [Versus the AI and two players](EVOLUTION.md#phase-7a-versus-the-ai-and-two-players) | 2026-10-16 / 2026-10-17 | Closed |
-| M | [Android](EVOLUTION.md#phase-m-android) | 2026-10-17 / 2026-10-18 | In progress |
+| M | [Android](EVOLUTION.md#phase-m-android) | 2026-10-17 / 2026-10-29 | In progress |
 | 7B | Online, 1 versus 1 | — | Planned |
 | 7C | Three to four players | — | Planned |
 | 8 | Progression and endgame | — | Planned |
@@ -65,6 +65,6 @@ Each table belongs to a **world** with its own look, sound and life: a candle-li
 - [Roadmap](ROADMAP.md): what comes next.
 - [Architecture](ARCHITECTURE.md): how the game is organised.
 
-Last updated: 2026-10-26.
+Last updated: 2026-10-29.
 
 © 2026 Ignacio Díaz. All rights reserved: see [LICENSE](LICENSE).

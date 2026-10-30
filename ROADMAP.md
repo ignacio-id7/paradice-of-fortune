@@ -18,7 +18,7 @@ The work is organised in phases, and each phase in blocks. Every block ends with
 | 6B | [Third world: the noir office](EVOLUTION.md#phase-6b-third-world-the-noir-office) | 2026-10-02 / 2026-10-04 | Closed |
 | 6C | [Fourth world: Fonda El Cacho](EVOLUTION.md#phase-6c-fourth-world-fonda-el-cacho) | 2026-10-13 / 2026-10-15 | Closed |
 | 7A | [Versus the AI and two players](EVOLUTION.md#phase-7a-versus-the-ai-and-two-players) | 2026-10-16 / 2026-10-17 | Closed |
-| M | [Android](EVOLUTION.md#phase-m-android) | 2026-10-17 / 2026-10-18 | In progress |
+| M | [Android](EVOLUTION.md#phase-m-android) | 2026-10-17 / 2026-10-29 | In progress |
 | 7B | Online, 1 versus 1 | — | Planned |
 | 7C | Three to four players | — | Planned |
 | 8 | Progression and endgame | — | Planned |
@@ -27,7 +27,7 @@ The work is organised in phases, and each phase in blocks. Every block ends with
 ## Up next
 
 ### Android (in progress)
-The full game on the owner's Android phone, played by touch in landscape, as a personal build installed by cable; it is not published in any store. Still to do: adjustments after the owner's test, graphics and performance on the phone, the dice fairness test running on the phone itself, and the wrap-up.
+The full game on the owner's Android phone, played by touch in landscape, as a personal build installed by cable; it is not published in any store. Done: touch controls, the side buttons and a graphics preset of its own for the phone. Still to do: adjustments after the owner's test, the dice fairness test running on the phone itself, and the wrap-up.
 
 ### Online, 1 versus 1
 A network technical test first, then online games between two computers: rooms, alternating turns, actions and dice trajectories in sync, disconnections, the turn timer and payouts.

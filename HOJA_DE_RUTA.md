@@ -18,7 +18,7 @@ El trabajo se ordena en fases, y cada fase en bloques. Cada bloque termina con l
 | 6B | [Tercer mundo: el despacho noir](EVOLUCION.md#fase-6b-tercer-mundo-el-despacho-noir) | 2026-10-02 / 2026-10-04 | Cerrada |
 | 6C | [Cuarto mundo: la Fonda El Cacho](EVOLUCION.md#fase-6c-cuarto-mundo-la-fonda-el-cacho) | 2026-10-13 / 2026-10-15 | Cerrada |
 | 7A | [Contra la IA y dos jugadores](EVOLUCION.md#fase-7a-contra-la-ia-y-dos-jugadores) | 2026-10-16 / 2026-10-17 | Cerrada |
-| M | [Android](EVOLUCION.md#fase-m-android) | 2026-10-17 / 2026-10-18 | En curso |
+| M | [Android](EVOLUCION.md#fase-m-android) | 2026-10-17 / 2026-10-29 | En curso |
 | 7B | En línea, 1 contra 1 | — | Planificada |
 | 7C | De 3 a 4 jugadores | — | Planificada |
 | 8 | Progresión y final del juego | — | Planificada |
@@ -27,7 +27,7 @@ El trabajo se ordena en fases, y cada fase en bloques. Cada bloque termina con l
 ## Lo que viene
 
 ### Android (en curso)
-El juego completo en el teléfono Android del dueño, en horizontal y con el dedo, como una versión personal que se instala por cable; no se publica en ninguna tienda. Falta: los ajustes tras la prueba del dueño, los gráficos y el rendimiento en el teléfono, la prueba de justicia de los dados dentro del propio teléfono y el cierre.
+El juego completo en el teléfono Android del dueño, en horizontal y con el dedo, como una versión personal que se instala por cable; no se publica en ninguna tienda. Hecho: los controles táctiles, los botones de los costados y un ajuste de gráficos propio del teléfono. Falta: los ajustes tras la prueba del dueño, la prueba de justicia de los dados dentro del propio teléfono y el cierre.
 
 ### En línea, 1 contra 1
 Primero una prueba técnica de red; después, partidas en línea entre dos equipos: salas, turnos alternados, acciones y trayectorias de los dados sincronizadas, desconexiones, el reloj del turno y el pago.

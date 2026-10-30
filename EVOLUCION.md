@@ -286,9 +286,9 @@ El primer paso del multijugador: contra la IA, en tres dificultades, o dos perso
 
 ## Fase M: Android
 
-*2026-10-17 / 2026-10-18 · En curso*
+*2026-10-17 / 2026-10-29 · En curso*
 
-El juego completo en un teléfono Android, en horizontal y con el dedo, como una versión personal que no se publica en tiendas. Se tira arrastrando desde el vaso, se acerca y se aleja con dos dedos, y unos botones entran por los costados al terminar cada tirada para guardar dados y anotar. Falta afinar los gráficos y el rendimiento.
+El juego completo en un teléfono Android, en horizontal y con el dedo, como una versión personal que no se publica en tiendas. Se tira arrastrando desde el vaso, se acerca y se aleja con dos dedos, y unos botones entran por los costados al terminar cada tirada para guardar dados y anotar. Los gráficos tienen un ajuste propio para el teléfono, medido mundo por mundo, y en «Decorar la mesa» los objetos se arrastran con el dedo desde la lista.
 
 ![El juego tal cual en el teléfono, antes de adaptarlo.](media/fase-m/tal-cual.webp)
 
@@ -309,6 +309,10 @@ El juego completo en un teléfono Android, en horizontal y con el dedo, como una
 ![Los botones entran y salen por los costados.](media/fase-m/botones.gif)
 
 *Los botones entran y salen por los costados.*
+
+![Del inventario a la mesa, arrastrando con el dedo.](media/fase-m/decorar.webp)
+
+*Del inventario a la mesa, arrastrando con el dedo.*
 
 ---
 

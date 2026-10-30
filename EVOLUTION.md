@@ -286,9 +286,9 @@ The first step towards multiplayer: against the AI, at three difficulty levels, 
 
 ## Phase M: Android
 
-*2026-10-17 / 2026-10-18 · In progress*
+*2026-10-17 / 2026-10-29 · In progress*
 
-The full game on an Android phone, in landscape and played with a finger, as a personal build that is not published in any store. Roll by dragging from the cup, zoom with two fingers, and buttons slide in from the sides after each roll to hold dice and score. Graphics and performance are still being tuned.
+The full game on an Android phone, in landscape and played with a finger, as a personal build that is not published in any store. Roll by dragging from the cup, zoom with two fingers, and buttons slide in from the sides after each roll to hold dice and score. Graphics have their own phone preset, measured world by world, and in «Decorate the table» objects are dragged with a finger from the list.
 
 ![The game as-is on the phone, before adapting it.](media/fase-m/tal-cual.webp)
 
@@ -309,6 +309,10 @@ The full game on an Android phone, in landscape and played with a finger, as a p
 ![The buttons slide in and out from the sides.](media/fase-m/botones.gif)
 
 *The buttons slide in and out from the sides.*
+
+![From the inventory to the table, dragging with a finger.](media/fase-m/decorar.webp)
+
+*From the inventory to the table, dragging with a finger.*
 
 ---
 
